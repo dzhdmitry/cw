@@ -17,7 +17,7 @@ Each file has a hyperlink to page with description of a task, it should be avail
 
   Just to easy copy-paste from/to codewars editor.
 
-* **Why are there ambiguous classes/functions in the task?**
+* **Why are there excess classes/functions in the task?**
 
   Each task comes with class/function with pre-defined name that will be used for testing
 
