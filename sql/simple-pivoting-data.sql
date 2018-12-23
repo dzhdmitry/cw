@@ -1,4 +1,7 @@
-/* SQL Basics: Simple PIVOTING data */
+/*
+SQL Basics: Simple PIVOTING data
+https://www.codewars.com/kata/sql-basics-simple-pivoting-data
+*/
 
 CREATE EXTENSION tablefunc;
 

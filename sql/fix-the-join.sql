@@ -1,4 +1,7 @@
-/* SQL Bug Fixing: Fix the JOIN */
+/*
+SQL Bug Fixing: Fix the JOIN
+https://www.codewars.com/kata/sql-bug-fixing-fix-the-join
+*/
 
 SELECT job_title,
   AVG(salary)::NUMERIC(6, 2)::FLOAT AS average_salary,

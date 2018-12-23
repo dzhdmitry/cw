@@ -1,6 +1,7 @@
 <?php
 
 // Permutations
+// https://www.codewars.com/kata/permutations
 
 class Letter
 {

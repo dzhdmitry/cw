@@ -1,6 +1,7 @@
 <?php
 
 // Adding words - Part II
+// https://www.codewars.com/kata/adding-words-part-ii
 
 class Arith
 {

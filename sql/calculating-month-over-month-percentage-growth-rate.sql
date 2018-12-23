@@ -1,4 +1,7 @@
-/* Calculating Month-Over-Month Percentage Growth Rate */
+/*
+Calculating Month-Over-Month Percentage Growth Rate
+https://www.codewars.com/kata/calculating-month-over-month-percentage-growth-rate
+*/
 
 SELECT
   current.date,

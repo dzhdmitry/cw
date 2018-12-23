@@ -1,6 +1,7 @@
 <?php
 
 // Conway's Game of Life - Unlimited Edition
+// https://www.codewars.com/kata/conways-game-of-life-unlimited-edition
 
 class Life
 {

@@ -1,4 +1,7 @@
-/* Challenge: Two actors who cast together the most */
+/*
+Challenge: Two actors who cast together the most
+https://www.codewars.com/kata/challenge-two-actors-who-cast-together-the-most
+*/
 
 CREATE TEMPORARY VIEW top_actors AS SELECT fa1.actor_id AS a1, fa2.actor_id AS a2, COUNT(fa2.film_id) AS amount
   FROM film_actor fa1

@@ -1,4 +1,7 @@
-/* SQL Statistics: MIN, MEDIAN, MAX */
+/*
+SQL Statistics: MIN, MEDIAN, MAX
+https://www.codewars.com/kata/sql-statistics-min-median-max
+*/
 
 SELECT min, ((p1 + p2) / 2)::FLOAT AS median, max FROM (
   SELECT

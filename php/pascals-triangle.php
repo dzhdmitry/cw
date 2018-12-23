@@ -1,6 +1,7 @@
 <?php
 
 // Pascal's Triangle
+// https://www.codewars.com/kata/pascals-triangle
 
 function pascals_triangle(int $n): array
 {

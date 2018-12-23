@@ -1,6 +1,7 @@
 <?php
 
 // Valid Braces
+// https://www.codewars.com/kata/valid-braces
 
 function validBraces(string $braces): bool
 {

@@ -1,6 +1,7 @@
 <?php
 
 // Sum of Intervals
+// https://www.codewars.com/kata/sum-of-intervals
 
 function sum_intervals(array $intervals): int
 {

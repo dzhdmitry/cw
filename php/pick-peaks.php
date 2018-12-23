@@ -1,6 +1,7 @@
 <?php
 
 // Pick peaks
+// https://www.codewars.com/kata/pick-peaks
 
 function pickPeaks(array $arr)
 {

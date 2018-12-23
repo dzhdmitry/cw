@@ -1,6 +1,7 @@
 <?php
 
 // Battleship field validator
+// https://www.codewars.com/kata/battleship-field-validator
 
 class Ship
 {

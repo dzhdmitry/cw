@@ -1,6 +1,7 @@
 <?php
 
 // Common Denominators
+// https://www.codewars.com/kata/common-denominators
 
 function gcd($a, $b)
 {
